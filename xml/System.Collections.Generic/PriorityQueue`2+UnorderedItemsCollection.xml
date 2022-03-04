@@ -86,7 +86,7 @@
       </Docs>
     </Member>
     <Member MemberName="System.Collections.Generic.IEnumerable&lt;System.ValueTuple&lt;TElement,TPriority&gt;&gt;.GetEnumerator" ExplicitInterfaceMemberName="System.Collections.Generic.IEnumerable&lt;(TElementElement,TPriorityPriority)&gt;.GetEnumerator">
-      <MemberSignature Language="C#" Value="System.Collections.Generic.IEnumerator&lt;(TElement,TPriority)&gt; IEnumerable&lt;(TElement,TPriority)&gt;.GetEnumerator ();" />
+      <MemberSignature Language="C#" Value="System.Collections.Generic.IEnumerator&lt;(TElement Element,TPriority Priority)&gt; IEnumerable&lt;(TElement,TPriority)&gt;.GetEnumerator ();" />
       <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance class System.Collections.Generic.IEnumerator`1&lt;valuetype System.ValueTuple`2&lt;!TElement, !TPriority&gt;&gt; System.Collections.Generic.IEnumerable&lt;(TElementElement,TPriorityPriority)&gt;.GetEnumerator() cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Collections.Generic.PriorityQueue`2.UnorderedItemsCollection.System#Collections#Generic#IEnumerable&lt;(TElementElement,TPriorityPriority)&gt;#GetEnumerator" />
       <MemberSignature Language="VB.NET" Value="Function GetEnumerator () As IEnumerator(Of ValueTuple(Of TElement, TPriority)) Implements IEnumerable(Of ValueTuple(Of TElement, TPriority)).GetEnumerator" />
